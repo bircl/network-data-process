@@ -1,4 +1,4 @@
-# ov Exercise - Birkan
+# Network Data Exercise
 
 This project involves processing poles and lines data. 
 The script snaps lines to the nearest pole points and populates missing pole height data from the nearest available pole.
